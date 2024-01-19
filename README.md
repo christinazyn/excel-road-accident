@@ -7,8 +7,8 @@ This is an Excel Project analyzing Road Accident Data by building up an interact
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/christinazyn/excel-project-coffee-sales)](https://github.com/christinazyn/excel-project-coffee-sales/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/christinazyn/excel-project-coffee-sales)](https://github.com/christinazyn/excel-project-coffee-sales/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/christinazyn/portfolio)](https://github.com/christinazyn/excel-project-coffee-sales/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/christinazyn/portfolio)](https://github.com/christinazyn/excel-project-coffee-sales/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/christinazyn/excel-project-coffee-sales)](https://github.com/christinazyn/excel-project-coffee-sales/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/christinazyn/excel-project-coffee-sales)](https://github.com/christinazyn/excel-project-coffee-sales/pulls)
 
 ## Table of Contents
 
